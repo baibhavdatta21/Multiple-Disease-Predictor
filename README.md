@@ -4,7 +4,7 @@ Here is the link to the deployment on heroku- https://multidispred.herokuapp.com
 
 This web page will help to see if someone has a certain disease or not.This is very good for emergency situations.
 
-#Project Preview
+Project Preview
 
 
 
