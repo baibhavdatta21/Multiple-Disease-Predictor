@@ -1,11 +1,29 @@
-# Multiple-Disease-Predictor
+# Multiple-Disease-Predictor:
 
-Here is the link to the deployment on heroku- https://multi-disease-pred-baibhav21.herokuapp.com/
+# Project Link:- https://multi-disease-pred-baibhav21.herokuapp.com/
 
-This web page will help to see if someone has a certain disease or not.This is very good for emergency situations.
+# About the Project:
 
-Project Preview
+A Machine Learning Project to predict multiple diseases like Diabetes, Heart Disease, Parkinsons etc from symptoms given by user using Machine Algorithms
 
+Data Science Supervised Machine learning Project
+Algorithm used : Support Vector Machine
+Implemented in Google Colaboratory with the help of Python 3.9
+Libraries used Numpy,Pandas,Sklearn
+Deployed on Heroku with help of Streamlit
+
+# Overview:
+
+This project has been broken down in to the following steps:
+
+Data Collection
+Data Preprocessing
+Splitting of Data for training and testing purpose
+Model building
+Evaluation on Training Data
+Evaluation on Testing Data
+
+# Preview:
 
 
 
